@@ -1,0 +1,10 @@
+# Ignore dataset downloads
+neurotone-feature-tests/data/raw/*
+neurotone-feature-tests/data/transcripts/*
+!neurotone-feature-tests/data/raw/sample_en.wav
+!neurotone-feature-tests/data/raw/sample_pl.wav
+!neurotone-feature-tests/data/transcripts/sample_en.txt
+!neurotone-feature-tests/data/transcripts/sample_pl.txt
+
+# Ignore notebook checkpoints
+**/.ipynb_checkpoints/

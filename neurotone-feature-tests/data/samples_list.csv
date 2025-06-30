@@ -1,0 +1,6 @@
+filename,language,label
+sample_en.wav,en,speech
+sample_pl.wav,pl,speech
+# Example entries for publicly available data
+adress_en_001.wav,en,MCI
+adress_en_002.wav,en,control
