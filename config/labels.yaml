@@ -1,0 +1,25 @@
+labels:
+  - name: dom
+    contacts:
+      - Mama
+      - Tata
+    keywords:
+      - rachunki
+      - naprawa
+      - zakupy
+  - name: firma
+    contacts:
+      - Szef
+      - Kasia (HR)
+    keywords:
+      - projekt
+      - faktura
+      - umowa
+  - name: towarzyskie
+    contacts:
+      - Ala
+      - Bartek
+    keywords:
+      - spotkanie
+      - kawa
+      - kino

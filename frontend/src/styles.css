@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+.card {
+  @apply bg-white dark:bg-slate-900 rounded-2xl shadow-card border border-slate-200/60 dark:border-slate-800;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-brand-500 to-cyan-400 bg-clip-text text-transparent;
+}
